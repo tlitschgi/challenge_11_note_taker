@@ -10,10 +10,10 @@ Save Note and Clear Form buttons will appear in the upper right hand corner.
 After the note is saved, the note title will appear on the left hand side.  Also, a trash can appears next to the note title to allow for the note to be deleted.
 
 To invoke the application, go to the VS terminal and enter:
-node server.js
+node server.js,
 The terminal will respond with the following:
-Server is running on http://localhost:3001 
-Copy "http://localhost:3001" and go to the brownwer, enter the url and press enter
+Server is running on http://localhost:3001. 
+Copy "http://localhost:3001" and go to the browser, enter the url and press enter.
 
 Note Taker screen snippets:
 ![image](https://github.com/user-attachments/assets/008fbf44-1a0c-4b39-9692-03ed1a9c7792)
