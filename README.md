@@ -13,3 +13,5 @@ Note Taker screen snippets:
 
 
 Source code can be found in the following location:
+https://github.com/tlitschgi/challenge_11_note_taker
+
